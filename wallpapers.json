@@ -1,64 +1,64 @@
 {
-	"wallpapers": [
+	"Wallpapers": [
 		{
 			"name": "Black Woods",
 			"author": "Nick Nice",
 			"url": "https://raw.githubusercontent.com/mddanishansari/Skice-Wallpapers/master/wallpapers/Black_Woods.jpg",
-			"thumbnail": "https://raw.githubusercontent.com/mddanishansari/Skice-Wallpapers/master/thumbnail/thumb_black_woods.jpg"
+			"thumbUrl": "https://raw.githubusercontent.com/mddanishansari/Skice-Wallpapers/master/thumbnail/thumb_black_woods.jpg"
 		},
 		{
 			"name": "Blue",
 			"author": "MD Danish Ansari",
 			"url": "https://raw.githubusercontent.com/mddanishansari/Skice-Wallpapers/master/wallpapers/Blue.jpg",
-			"thumbnail": "https://raw.githubusercontent.com/mddanishansari/Skice-Wallpapers/master/thumbnail/thumb_blue.jpg"
+			"thumbUrl": "https://raw.githubusercontent.com/mddanishansari/Skice-Wallpapers/master/thumbnail/thumb_blue.jpg"
 		},
 		{
 			"name": "Bricks",
 			"author": "MD Danish Ansari",
 			"url": "https://raw.githubusercontent.com/mddanishansari/Skice-Wallpapers/master/wallpapers/Bricks.jpg",
-			"thumbnail": "https://raw.githubusercontent.com/mddanishansari/Skice-Wallpapers/master/thumbnail/thumb_bricks.jpg"
+			"thumbUrl": "https://raw.githubusercontent.com/mddanishansari/Skice-Wallpapers/master/thumbnail/thumb_bricks.jpg"
 		},
 		{
 			"name": "Carbon",
 			"author": "MD Danish Ansari",
 			"url": "https://raw.githubusercontent.com/mddanishansari/Skice-Wallpapers/master/wallpapers/Carbon.jpg",
-			"thumbnail": "https://raw.githubusercontent.com/mddanishansari/Skice-Wallpapers/master/thumbnail/thumb_carbon.jpg"
+			"thumbUrl": "https://raw.githubusercontent.com/mddanishansari/Skice-Wallpapers/master/thumbnail/thumb_carbon.jpg"
 		},
 		{
 			"name": "Cubes",
 			"author": "MD Danish Ansari",
 			"url": "https://raw.githubusercontent.com/mddanishansari/Skice-Wallpapers/master/wallpapers/Cubes.jpg",
-			"thumbnail": "https://raw.githubusercontent.com/mddanishansari/Skice-Wallpapers/master/thumbnail/thumb_cubes.jpg"
+			"thumbUrl": "https://raw.githubusercontent.com/mddanishansari/Skice-Wallpapers/master/thumbnail/thumb_cubes.jpg"
 		},
 		{
 			"name": "Jeans",
 			"author": "MD Danish Ansari",
 			"url": "https://raw.githubusercontent.com/mddanishansari/Skice-Wallpapers/master/wallpapers/Jeans.jpg",
-			"thumbnail": "https://raw.githubusercontent.com/mddanishansari/Skice-Wallpapers/master/thumbnail/thumb_jeans.jpg"
+			"thumbUrl": "https://raw.githubusercontent.com/mddanishansari/Skice-Wallpapers/master/thumbnail/thumb_jeans.jpg"
 		},
 		{
 			"name": "Lines",
 			"author": "MD Danish Ansari",
 			"url": "https://raw.githubusercontent.com/mddanishansari/Skice-Wallpapers/master/wallpapers/Lines.jpg",
-			"thumbnail": "https://raw.githubusercontent.com/mddanishansari/Skice-Wallpapers/master/thumbnail/thumb_lines.jpg"
+			"thumbUrl": "https://raw.githubusercontent.com/mddanishansari/Skice-Wallpapers/master/thumbnail/thumb_lines.jpg"
 		},
 		{
 			"name": "Red",
 			"author": "MD Danish Ansari",
 			"url": "https://raw.githubusercontent.com/mddanishansari/Skice-Wallpapers/master/wallpapers/Red.jpg",
-			"thumbnail": "https://raw.githubusercontent.com/mddanishansari/Skice-Wallpapers/master/thumbnail/thumb_red.jpg"
+			"thumbUrl": "https://raw.githubusercontent.com/mddanishansari/Skice-Wallpapers/master/thumbnail/thumb_red.jpg"
 		},
 		{
 			"name": "Stars",
 			"author": "Nick Nice",
 			"url": "https://raw.githubusercontent.com/mddanishansari/Skice-Wallpapers/master/wallpapers/Stars.jpg",
-			"thumbnail": "https://raw.githubusercontent.com/mddanishansari/Skice-Wallpapers/master/thumbnail/thumb_stars.jpg"
+			"thumbUrl": "https://raw.githubusercontent.com/mddanishansari/Skice-Wallpapers/master/thumbnail/thumb_stars.jpg"
 		},
 		{
 			"name": "Vignette",
 			"author": "MD Danish Ansari",
 			"url": "https://raw.githubusercontent.com/mddanishansari/Skice-Wallpapers/master/wallpapers/Vignette.jpg",
-			"thumbnail": "https://raw.githubusercontent.com/mddanishansari/Skice-Wallpapers/master/thumbnail/thumb_vignette.jpg"
+			"thumbUrl": "https://raw.githubusercontent.com/mddanishansari/Skice-Wallpapers/master/thumbnail/thumb_vignette.jpg"
 		}
 	]
 }
